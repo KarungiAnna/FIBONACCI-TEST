@@ -1,0 +1,12 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "Fibonacci: Test First TDD",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "mocha test_fibonacci.js"
+  },
+  "keywords": [],
+  "author": "Anna, Vivian and Philemon",
+  "license": "ISC"
+}
